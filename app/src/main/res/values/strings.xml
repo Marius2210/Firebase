@@ -1,0 +1,53 @@
+<resources>
+    <!-- Strings existentes -->
+    <string name="app_name">Gestión Escolar</string>
+    <string name="title">Registro de alumnos</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="confirm_password">Confirmar Contraseña</string>
+    <string name="signed">Registrate</string>
+    <string name="already_have_an_account_login">Ya tienes una cuenta? Logueate</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_sign_in">No tienes una cuenta? Registrate</string>
+    <string name="logout">Cerrar sesión</string>
+
+    <string name="registerStudent">Registrar estudiante</string>
+    <string name="registerNote">Registrar nota</string>
+    <string name="seeStudentsNotes">Ver estudiantes y notas</string>
+
+    <string name="registerNotes">Registrar notas</string>
+
+    <string name="title_register_notes">Registrar Notas</string>
+    <string name="label_select_student">Seleccione Estudiante:</string>
+    <string name="label_select_subject">Seleccione Materia:</string>
+    <string name="hint_final_grade">Nota Final (0-10)</string>
+    <string name="button_save_grade">Guardar Nota</string>
+
+    <string name="title_register_student">Registrar Nuevo Estudiante</string>
+    <string name="hint_student_name">Nombre Completo</string>
+    <string name="hint_student_age">Edad</string>
+    <string name="hint_student_address">Dirección</string>
+    <string name="hint_student_phone">Teléfono</string>
+    <string name="button_save_student">Guardar Estudiante</string>
+
+    <string name="title_student_list">Lista de Estudiantes</string>
+
+    <string name="title_student_grades">Notas del Estudiante</string>
+    <string name="content_description_add_grade">Agregar Nota</string>
+    <string name="button_update_student">Actualizar Estudiante</string>
+    <string name="title_update_student">Actualizar Estudiante</string>
+    <string name="button_manage_notes">Gestionar Notas</string>
+    <string name="new_note">Nueva Nota (0-10)</string>
+
+    <string name="label_subject">Materia: %s</string>
+    <string name="label_grade">Nota: %s</string>
+    <string name="button_edit">Editar</string>
+    <string name="button_delete">Eliminar</string>
+
+    <string name="label_student_name">Nombre del Estudiante</string>
+    <string name="label_student_details">Edad: %1$s, Dirección: %2$s, Teléfono: %3$s</string>
+    <string name="label_student_grades">Notas: %s</string>
+    <string name="button_edit_student">Editar</string>
+    <string name="button_delete_student">Eliminar</string>
+
+</resources>
